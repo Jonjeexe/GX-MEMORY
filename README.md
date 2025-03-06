@@ -1,1 +1,1 @@
-## GX-MEMOEY
+## GX-MEMORY 
